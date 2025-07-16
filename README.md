@@ -29,3 +29,7 @@ Due to limited time, the online JSON integration and dynamic box spawning were n
 2. Click "Play"
 3. Aim and shoot at the drones to gain score
 
+Google Drive Download: 
+UE Project:[https://drive.google.com/drive/folders/1HOHmcH8qK2I_kZeGA4ygwaXXF8ug7aEQ?usp=drive_link]
+
+Game:[https://drive.google.com/drive/folders/1Ztv1Zy-aMcMT5e8VuRXc2g_sLi8pAPGS?usp=drive_link]
